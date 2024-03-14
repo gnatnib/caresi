@@ -1,6 +1,6 @@
-# Cek Resi - Package Tracker Website
+# Caresi - Package Tracker Website
 
-Cek Resi is a package tracking website built to provide users with a convenient way to track their shipments. This project utilizes HTML, CSS, and JavaScript to create an intuitive and responsive user interface. The tracking functionality is powered by a public API key provided by Binderbyte.
+Caresi (Cari Resi) is a package tracking website built to provide users with a convenient way to track their shipments. This project utilizes HTML, CSS, and JavaScript to create an intuitive and responsive user interface. The tracking functionality is powered by a public API key provided by Binderbyte.
 
 ## Features
 - **Package Tracking**: Easily track your shipments by entering the tracking number.
