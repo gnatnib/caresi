@@ -1,0 +1,37 @@
+html {
+    scroll-behavior: smooth;
+} 
+
+.bi-facebook {
+    color: green;
+}
+
+.bi-instagram {
+    color: #8a3ab9;
+}
+
+.navbar {
+    position: fixed;
+    z-index: 999;
+    top: 0;
+    right: 0;
+    left: 0;
+}
+
+#main {
+    padding-top: 40px;
+}
+
+#main .container {
+    padding: 20px;
+}
+
+footer{
+    height: 26vh;
+    margin: 0 1rem;
+}
+
+footer p{
+    text-align: center;
+
+}
