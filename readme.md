@@ -9,6 +9,8 @@ Cek Resi is a package tracking website built to provide users with a convenient 
 - **Minimalistic UI**: Simple and user-friendly interface for hassle-free tracking.
 
 ## Technologies Used
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
 - HTML
 - CSS
 - JavaScript
@@ -16,5 +18,6 @@ Cek Resi is a package tracking website built to provide users with a convenient 
 ## Usage
 Click this [link](https://cekresi-sable.vercel.app/).
 
+## Clone This Repository
 ```bash
 git clone https://github.com/yourusername/cek-resi.git
