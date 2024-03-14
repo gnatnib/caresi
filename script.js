@@ -32,7 +32,7 @@ $('#search-button').on('click', function() {
                 $('.info').removeClass('text-center')
                 $('.info').html(`
                     <div data-aos="zoom-in-down">
-                    <h4 class="mb-2">I. Informasi Pengiriman</h4>
+                    <h4 class="mb-2">Informasi Pengiriman</h4>
                     <table class="table">
                         <tbody>
                         <tr>
@@ -69,7 +69,7 @@ $('#search-button').on('click', function() {
                     </table>
 
                     <br>
-                    <h4 class="mb-2">II. Status Pengiriman</h4>
+                    <h4 class="mb-2">Status Pengiriman</h4>
                     <table class="table">
                         <thead>
                             <tr class="text-center">
