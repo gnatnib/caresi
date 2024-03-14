@@ -18,4 +18,4 @@ Click this [link](https://caresi.vercel.app/).
 
 ## Clone This Repository
 ```bash
-git clone https://github.com/yourusername/cek-resi.git
+git clone https://github.com/yourusername/caresi.git
