@@ -14,7 +14,7 @@ Cek Resi is a package tracking website built to provide users with a convenient 
 - JavaScript
 
 ## Usage
-Click this [link](https://gnatnib.github.io/)
+Click this [link]([https://gnatnib.github.io/](https://cekresi-sable.vercel.app/)).
 
 ```bash
 git clone https://github.com/yourusername/cek-resi.git
